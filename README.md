@@ -8,10 +8,10 @@ A collection of quantitative optimization projects applying operations research 
 
 | # | Project | Technique | Solver Engine | Outcome |
 |---|---------|-----------|---------------|---------|
-| 1 | [EOQ Inventory Optimization](./mod4-eoq-inventory/) | Economic Order Quantity | GRG Nonlinear | Minimized annual cost to **$17,060** |
-| 2 | [LP Product Mix Optimization](./mod5-lp-product-mix/) | Linear Programming | Simplex LP | Maximized profit to **$142,051** |
-| 3 | [Waste Transportation Optimization](./mod6-transportation-portfolio/) | Network / Transportation LP | Simplex LP | Reduced shipping cost by **9.2%** |
-| 4 | [Portfolio Risk-Return Optimization](./mod6-transportation-portfolio/#part-2-portfolio-risk-return-optimization) | Quadratic Programming | GRG Nonlinear | Minimized risk at **11% target return** |
+| 1 | [EOQ Inventory Optimization](./MOD_4_EOQ_Inventory/) | Economic Order Quantity | GRG Nonlinear | Minimized annual cost to **$17,060** |
+| 2 | [LP Product Mix Optimization](./MOD_5_LP_Product_Mix/) | Linear Programming | Simplex LP | Maximized profit to **$142,051** |
+| 3 | [Waste Transportation Optimization](./MOD_6_Transportation_Portfolio/) | Network / Transportation LP | Simplex LP | Reduced shipping cost by **9.2%** |
+| 4 | [Portfolio Risk-Return Optimization](./MOD_6_Transportation_Portfolio/#part-2-portfolio-risk-return-optimization) | Quadratic Programming | GRG Nonlinear | Minimized risk at **11% target return** |
 
 ---
 
